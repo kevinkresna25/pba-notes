@@ -42,91 +42,112 @@
 
 ## 3b. Contoh Penerapan Lambang
 
-**1. Simbol $s$ (posisi / perpindahan)**  
-Rumus:  
+**1) Simbol $s$ (posisi / perpindahan)**  
+Rumus:
+
 $$
 s = v \cdot t
-$$  
-Contoh: Jika $v=10 \, m/s$ dan $t=5 \, s$, maka  
 $$
-s = 10 \cdot 5 = 50 \, m
+
+Contoh: Jika $v=10 \,\mathrm{m/s}$ dan $t=5 \,\mathrm{s}$, maka
+
+$$
+s = 10 \cdot 5 = 50 \,\mathrm{m}
 $$
 
 ---
 
-**2. Simbol $d$ (jarak / distance)**  
-Rumus:  
+**2) Simbol $d$ (jarak / distance)**  
+Rumus:
+
 $$
 d = v \cdot t
-$$  
-Contoh: Sepeda dengan $v=5 \, m/s$, $t=60 \, s$  
 $$
-d = 5 \cdot 60 = 300 \, m
+
+Contoh: Sepeda dengan $v=5 \,\mathrm{m/s}$, $t=60 \,\mathrm{s}$
+
+$$
+d = 5 \cdot 60 = 300 \,\mathrm{m}
 $$
 
 ---
 
-**3. Simbol $v$ (kecepatan / velocity)**  
-Rumus:  
+**3) Simbol $v$ (kecepatan / velocity)**  
+Rumus:
+
 $$
 v = \frac{s}{t}
-$$  
-Contoh: $s=150 \, m$, $t=20 \, s$  
 $$
-v = \frac{150}{20} = 7.5 \, m/s
+
+Contoh: $s=150 \,\mathrm{m}$, $t=20 \,\mathrm{s}$
+
+$$
+v = \frac{150}{20} = 7.5 \,\mathrm{m/s}
 $$
 
 ---
 
-**4. Simbol $v_{avg}$ (kecepatan rata-rata)**  
-Rumus:  
+**4) Simbol $v_{avg}$ (kecepatan rata-rata)**  
+Rumus:
+
 $$
 v_{avg} = \frac{\Delta s}{\Delta t}
-$$  
-Contoh: Perjalanan 100 km dalam 2 jam  
 $$
-v_{avg} = \frac{100}{2} = 50 \, km/h
+
+Contoh: Perjalanan $100 \,\mathrm{km}$ dalam $2 \,\mathrm{jam}$
+
+$$
+v_{avg} = \frac{100}{2} = 50 \,\mathrm{km/h}
 $$
 
 ---
 
-**5. Simbol $v_0$ (kecepatan awal)**  
-Rumus:  
+**5) Simbol $v_0$ (kecepatan awal)**  
+Rumus:
+
 $$
 v_t = v_0 + a \cdot t
-$$  
-Contoh: $v_0=0$, $a=2 \, m/s^2$, $t=5 \, s$  
 $$
-v_t = 0 + 2 \cdot 5 = 10 \, m/s
+
+Contoh: $v_0=0$, $a=2 \,\mathrm{m/s^2}$, $t=5 \,\mathrm{s}$
+
+$$
+v_t = 0 + 2 \cdot 5 = 10 \,\mathrm{m/s}
 $$
 
 ---
 
-**6. Simbol $a$ (percepatan)**  
-Rumus:  
+**6) Simbol $a$ (percepatan)**  
+Rumus:
+
 $$
 a = \frac{\Delta v}{\Delta t}
-$$  
-Contoh: $v$ naik dari 0 ke 20 m/s dalam 10 s  
 $$
-a = \frac{20-0}{10} = 2 \, m/s^2
+
+Contoh: $v$ naik dari $0$ ke $20 \,\mathrm{m/s}$ dalam $10 \,\mathrm{s}$
+
+$$
+a = \frac{20 - 0}{10} = 2 \,\mathrm{m/s^2}
 $$
 
 ---
 
-**7. Simbol $t$ (waktu)**  
-Variabel waktu, misalnya $t=60 \, s$ berarti 1 menit.
+**7) Simbol $t$ (waktu)**  
+Variabel waktu; misalnya $t=60 \,\mathrm{s}$ berarti 1 menit.
 
 ---
 
-**8. Simbol $\Delta t$ (selang waktu)**  
-Selisih antara $t_2$ dan $t_1$:  
+**8) Simbol $\Delta t$ (selang waktu)**  
+Rumus:
+
 $$
 \Delta t = t_2 - t_1
-$$  
-Contoh: $t_1=2 \, s$, $t_2=5 \, s$  
 $$
-\Delta t = 5 - 2 = 3 \, s
+
+Contoh: $t_1=2 \,\mathrm{s}$, $t_2=5 \,\mathrm{s}$
+
+$$
+\Delta t = 5 - 2 = 3 \,\mathrm{s}
 $$
 
 ---
