@@ -12,31 +12,31 @@
 
 ## 2. Konsep Dasar Kinematika
 - **Kinematika**: mempelajari gerak benda tanpa memperhatikan gaya penyebabnya.  
-- Fokus: **posisi (s)**, **kecepatan (v)**, dan **percepatan (a)**.  
+- Fokus: **posisi** $(s)$, **kecepatan** $(v)$, dan **percepatan** $(a)$.  
 - Anggap benda sebagai **partikel**.
 
 ### Perbedaan Penting
-| Konsep      | Jenis    | Rumus Dasar                     | Keterangan |
-|-------------|----------|---------------------------------|------------|
-| Speed       | Skalar   | `speed = jarak / waktu`         | Tidak ada arah |
-| Velocity    | Vektor   | `velocity = perpindahan / waktu`| Ada arah |
-| Distance    | Skalar   | Panjang lintasan                | Bisa berliku |
-| Displacement| Vektor   | Posisi akhir – awal             | Bisa 0 meski jarak ≠ 0 |
+| Konsep       | Jenis  | Rumus Dasar                       | Keterangan                  |
+|--------------|--------|-----------------------------------|-----------------------------|
+| Speed        | Skalar | `speed = jarak / waktu`           | Tidak ada arah              |
+| Velocity     | Vektor | `velocity = perpindahan / waktu`  | Ada arah                    |
+| Distance     | Skalar | Panjang lintasan                  | Bisa berliku                |
+| Displacement | Vektor | Posisi akhir – awal               | Bisa 0 meski jarak ≠ 0      |
 
 ---
 
 ## 3. Lambang & Notasi Penting
-| Simbol | Arti                          | Satuan SI   |
-|--------|-------------------------------|-------------|
-| `s`    | Posisi / Perpindahan          | meter (m)   |
-| `d`    | Jarak (Distance)              | meter (m)   |
-| `v`    | Kecepatan (Velocity, vektor)  | m/s         |
-| `v_avg`| Kecepatan rata-rata           | m/s         |
-| `v0`   | Kecepatan awal                | m/s         |
-| `vt`   | Kecepatan saat t              | m/s         |
-| `a`    | Percepatan (Acceleration)     | m/s²        |
-| `t`    | Waktu                         | sekon (s)   |
-| `Δt`   | Selang waktu                  | sekon (s)   |
+| Simbol      | Arti                           | Satuan SI     |
+|-------------|--------------------------------|---------------|
+| $s$         | Posisi / Perpindahan           | meter (m)     |
+| $d$         | Jarak (Distance)               | meter (m)     |
+| $v$         | Kecepatan (Velocity, vektor)   | m/s           |
+| $v_{avg}$   | Kecepatan rata-rata            | m/s           |
+| $v_0$       | Kecepatan awal                 | m/s           |
+| $v_t$       | Kecepatan saat $t$             | m/s           |
+| $a$         | Percepatan (Acceleration)      | m/s$^2$       |
+| $t$         | Waktu                          | sekon (s)     |
+| $\Delta t$  | Selang waktu                   | sekon (s)     |
 
 ---
 
@@ -154,14 +154,16 @@ $$
 
 ## 4. Rumus Utama
 - **Speed**:  
-  $$
-  \text{Speed} = \frac{\text{Distance}}{\text{Time}}
-  $$
+
+$$
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
+$$
 
 - **Velocity**:  
-  $$
-  \text{Velocity} = \frac{\text{Displacement}}{\text{Time}}
-  $$
+
+$$
+\text{Velocity} = \frac{\text{Displacement}}{\text{Time}}
+$$
 
 - **Average Speed** = Total Jarak ÷ Total Waktu  
 - **Average Velocity** = Total Perpindahan ÷ Total Waktu  
@@ -173,19 +175,22 @@ $$
 ### Soal 1  
 Mobil menempuh 150 m dalam 20 s. Hitung speed-nya.
 
-**Langkah 1**: Tuliskan rumus  
+**Langkah 1**: Tuliskan rumus
+
 $$
-\text{Speed} = \frac{Distance}{Time}
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
 $$
 
-**Langkah 2**: Masukkan angka  
+**Langkah 2**: Masukkan angka
+
 $$
 \text{Speed} = \frac{150}{20}
 $$
 
-**Langkah 3**: Hitung  
+**Langkah 3**: Hitung
+
 $$
-\text{Speed} = 7.5 \, m/s
+\text{Speed} = 7.5 \,\mathrm{m/s}
 $$
 
 ✅ Jawaban: **7.5 m/s**
@@ -195,19 +200,22 @@ $$
 ### Soal 2  
 Teman lari dengan kecepatan 2 m/s. Jarak ke Indomaret 20 m. Berapa waktu yang dibutuhkan?
 
-**Langkah 1**: Rumus dasar  
+**Langkah 1**: Rumus dasar
+
 $$
-Time = \frac{Distance}{Speed}
+\text{Time} = \frac{\text{Distance}}{\text{Speed}}
 $$
 
-**Langkah 2**: Masukkan angka  
+**Langkah 2**: Masukkan angka
+
 $$
-Time = \frac{20}{2}
+\text{Time} = \frac{20}{2}
 $$
 
-**Langkah 3**: Hitung  
+**Langkah 3**: Hitung
+
 $$
-Time = 10 \, s
+\text{Time} = 10 \,\mathrm{s}
 $$
 
 ✅ Jawaban: **10 detik**
@@ -220,19 +228,22 @@ Bus berangkat dari Ubaya ke Jatim Park 2 (100 km). Berangkat pukul 08.30, tiba p
 **Langkah 1**: Cari total waktu  
 08.30 → 10.00 = **1,5 jam**
 
-**Langkah 2**: Rumus  
+**Langkah 2**: Rumus
+
 $$
-\text{Speed} = \frac{Distance}{Time}
+\text{Speed} = \frac{\text{Distance}}{\text{Time}}
 $$
 
-**Langkah 3**: Masukkan angka  
+**Langkah 3**: Masukkan angka
+
 $$
 \text{Speed} = \frac{100}{1.5}
 $$
 
-**Langkah 4**: Hitung  
+**Langkah 4**: Hitung
+
 $$
-\text{Speed} = 66.7 \, km/h
+\text{Speed} = 66.7 \,\mathrm{km/h}
 $$
 
 ✅ Jawaban: **≈ 66.7 km/h**
@@ -245,33 +256,39 @@ Trip A ↔ B (240 km).
 - Istirahat: 2 jam  
 - B → A: 60 km/h  
 
-**Langkah 1**: Waktu A → B  
+**Langkah 1**: Waktu A → B
+
 $$
-t = \frac{240}{40} = 6 \, jam
+t = \frac{240}{40} = 6 \,\mathrm{jam}
 $$
 
-**Langkah 2**: Waktu B → A  
+**Langkah 2**: Waktu B → A
+
 $$
-t = \frac{240}{60} = 4 \, jam
+t = \frac{240}{60} = 4 \,\mathrm{jam}
 $$
 
-**Langkah 3**: Total jarak  
+**Langkah 3**: Total jarak
+
 $$
-240 + 240 = 480 \, km
+240 + 240 = 480 \,\mathrm{km}
 $$
 
-**Langkah 4**: Total waktu (termasuk istirahat)  
+**Langkah 4**: Total waktu (termasuk istirahat)
+
 $$
-6 + 2 + 4 = 12 \, jam
+6 + 2 + 4 = 12 \,\mathrm{jam}
 $$
 
-**Langkah 5**: Average speed  
+**Langkah 5**: Average speed
+
 $$
-\frac{480}{12} = 40 \, km/h
+\frac{480}{12} = 40 \,\mathrm{km/h}
 $$
 
 **Langkah 6**: Average velocity  
-Karena pulang ke titik awal, perpindahan = 0.  
+Karena pulang ke titik awal, perpindahan $=0$.
+
 $$
 \text{Average velocity} = 0
 $$
@@ -286,24 +303,29 @@ Balap sendok telur:
 - Balik 25 m dalam 15 s  
 
 **Langkah 1**: Average velocity per segmen  
-- Pergi:  
+Pergi:
+
 $$
-\frac{25}{20} = 1.25 \, m/s
-$$  
-- Balik:  
+\frac{25}{20} = 1.25 \,\mathrm{m/s}
 $$
-\frac{25}{15} \approx 1.67 \, m/s
+
+Balik:
+
+$$
+\frac{25}{15} \approx 1.67 \,\mathrm{m/s}
 $$
 
 **Langkah 2**: Round trip displacement  
-Posisi akhir kembali ke awal → **0 m**  
+Posisi akhir kembali ke awal → **0 m**
+
 $$
-\text{Average velocity round trip} = \frac{0}{35} = 0
+\text{Average velocity (round trip)} = \frac{0}{35} = 0
 $$
 
-**Langkah 3**: Round trip speed  
+**Langkah 3**: Round trip speed
+
 $$
-\text{Average speed} = \frac{50}{35} \approx 1.43 \, m/s
+\text{Average speed} = \frac{50}{35} \approx 1.43 \,\mathrm{m/s}
 $$
 
 ✅ Jawaban:  
